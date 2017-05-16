@@ -1,0 +1,17 @@
+{
+    "name": "cormorantgaramond-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Christian Thalmann"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/cormorantgaramond-bower.git"
+    },
+    "description": "Cormorant Garamond font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
